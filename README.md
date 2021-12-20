@@ -1,4 +1,3 @@
-# hello-world
-my first repos
+g++ -o parse parse.cpp -g
+./today.sh
 
-this is my first test repos
